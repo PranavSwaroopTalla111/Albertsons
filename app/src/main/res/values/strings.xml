@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cat Facts</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="cat_fact_error">Cat Fact Not Available</string>
+    <string name="cat_image_url">http://placekitten.com/</string>
+    <string name="cat_image_description">cat image</string>
+</resources>
